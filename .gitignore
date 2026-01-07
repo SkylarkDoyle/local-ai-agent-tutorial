@@ -142,3 +142,5 @@ cython_debug/
 
 # PyCharm
 .idea/
+
+chroma_langchain_db/
